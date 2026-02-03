@@ -13,6 +13,11 @@
  * Implementa flattenDeep(arr) -> any[]
  */
 
+/**
+ * EJERCICIO 4: Suma de pares (Two Sum)
+ * Implementa twoSum(numbers, target) -> number[] | null
+ */
+
 function isPalindrome(text) {
   // TODO: implementa aquí
 }
@@ -25,8 +30,13 @@ function flattenDeep(arr) {
   // TODO: implementa aquí
 }
 
+function twoSum(numbers, target) {
+  // TODO: implementa aquí
+}
+
 module.exports = {
   isPalindrome,
   countVowels,
   flattenDeep,
+  twoSum,
 };

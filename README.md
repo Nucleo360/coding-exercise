@@ -1,20 +1,45 @@
-# Ejercicios de JavaScript (con tests)
+# Ejercicios de JavaScript con Tests (Jest)
 
-Este repo contiene ejercicios típicos de entrevistas/katas, con **tests en Jest**.
-Tu objetivo es **implementar las funciones** en `index.js` hasta que todos los tests pasen.
+Este repositorio contiene una colección de **ejercicios clásicos de JavaScript** orientados a:
+- entrevistas técnicas
+- prácticas de testing
+- katas de programación
+- formación en bootcamps
+
+Todos los ejercicios están acompañados de **tests unitarios con Jest**.  
+Las funciones están **sin implementar a propósito**: tu objetivo es escribir el código necesario hasta que **todos los tests pasen**.
 
 ---
 
-## Requisitos
+## 🧩 Ejercicios incluidos
 
-- Node.js (recomendado: 18+)
-- npm
+1. **Palíndromo** (`isPalindrome`)
+2. **Contar vocales** (`countVowels`)
+3. **Aplanar arrays anidados** (`flattenDeep`)
+4. **Suma de pares (Two Sum)** (`twoSum`)
 
 ---
 
-## Instalación
+## 📋 Requisitos
 
-1) Inicializa el proyecto (si aún no lo has hecho):
+- Node.js (recomendado: versión 18 o superior)
+- npm o yarn
+- Conocimientos básicos de JavaScript
+- Conocimientos básicos de testing (Jest)
+
+---
+
+## 🚀 Instalación y configuración
+
+### 1️⃣ Instala JEST
 
 ```bash
-npm init -y
+npm install --save-dev jest
+```
+
+### 2️⃣ Ejecuta los tests
+
+```bash
+npm test
+```
+

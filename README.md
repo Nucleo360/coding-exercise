@@ -29,7 +29,7 @@ Las funciones están **sin implementar a propósito**: tu objetivo es escribir e
 
 ---
 
-## 🚀 Instalación y configuración
+## 🚀 Instalación y ejecución
 
 ### 1️⃣ Instala JEST
 
